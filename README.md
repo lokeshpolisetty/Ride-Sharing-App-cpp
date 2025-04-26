@@ -80,7 +80,3 @@ This project is a simple ride sharing application implemented in C++. It support
   
 - **Platform Specifics (Mac):**  
   The provided build instructions and terminal commands are specific to macOS. Adjust paths accordingly for different environments.
-
-## License
-
-This project is provided for educational purposes. No commercial use is permitted without explicit consent.
